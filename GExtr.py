@@ -1,6 +1,6 @@
 import email, getpass, imaplib, os, re
 
-acct = "haolongningisfuckingaswsomecanyoubelievethat@gmail.com"
+acct = "gzjisfuckingaswsomecanyoubelievethat@gmail.com"
 pwd = "123456789"
 
 m = imaplib.IMAP4_SSL("imap.gmail.com")
